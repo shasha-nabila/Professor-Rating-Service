@@ -54,6 +54,7 @@ view                               # View professor ratings
 average                            # View average rating for a professor in a module
 rate                               # Submit a professor rating
 exit                               # Exit the client
+```
 
 ## 🧪 Usage
 
